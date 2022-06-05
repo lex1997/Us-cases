@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-05T14:49:24.896Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.143 YaBrowser/22.5.0.1792 Yowser/2.5 Safari/537.36" etag="EH9jW3RGYxMoKkIhdtAJ" version="18.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-05T17:11:33.527Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.143 YaBrowser/22.5.0.1792 Yowser/2.5 Safari/537.36" etag="TiPU5OHPmx2-kYCDA39f" version="18.1.3" type="github">
   <diagram id="hXNBiehbBBbASaUYIP90" name="Page-1">
     <mxGraphModel dx="1730" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -662,7 +662,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XAaC7zOwhtbyqbxtr4Jh-129" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;i&gt;Закрытие модального окна без сохранения результатов&lt;/i&gt;&lt;/span&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13.3;fontColor=#333333;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=7.5;fillColor=#3278ca;strokeWidth=0.8;" parent="1" vertex="1">
+        <mxCell id="XAaC7zOwhtbyqbxtr4Jh-129" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;i&gt;Закрытие модального окна с сохранением результатов&lt;/i&gt;&lt;/span&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13.3;fontColor=#333333;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=7.5;fillColor=#3278ca;strokeWidth=0.8;" parent="1" vertex="1">
           <mxGeometry x="6169.63" y="506" width="135" height="100.5" as="geometry" />
         </mxCell>
         <mxCell id="XAaC7zOwhtbyqbxtr4Jh-128" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;i&gt;Закрытие модального окна без сохранения результатов&lt;/i&gt;&lt;/span&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13.3;fontColor=#333333;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=7.5;fillColor=#3278ca;strokeWidth=0.8;" parent="1" vertex="1">
