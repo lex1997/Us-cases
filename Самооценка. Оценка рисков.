@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-06T04:39:41.121Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.143 YaBrowser/22.5.0.1792 Yowser/2.5 Safari/537.36" etag="P1CB9r7IDJjpAYqhPpPU" version="18.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-06T04:40:34.899Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.143 YaBrowser/22.5.0.1792 Yowser/2.5 Safari/537.36" etag="2ttx2n5gEHCmlDtm8cY6" version="18.1.3" type="github">
   <diagram id="4zhgE-NVxBwmN6KlwBii" name="Оценка рисков">
-    <mxGraphModel dx="5190" dy="12107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2076" dy="10454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -719,7 +719,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dBB2NP78j98Wvm65gKa0-24" value="Завершение &lt;br&gt;Актуализации КП" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate2;fillColor=#3278CA;" vertex="1" parent="1">
+        <mxCell id="dBB2NP78j98Wvm65gKa0-24" value="Завершение &lt;br&gt;Оценки рисков" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate2;fillColor=#3278CA;" vertex="1" parent="1">
           <mxGeometry x="8930" y="-8541.08" width="107" height="107" as="geometry" />
         </mxCell>
         <mxCell id="dBB2NP78j98Wvm65gKa0-25" value="Да" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dBB2NP78j98Wvm65gKa0-28" target="dBB2NP78j98Wvm65gKa0-29">
