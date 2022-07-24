@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-24T17:38:10.058Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.134 YaBrowser/22.7.0.1842 Yowser/2.5 Safari/537.36" etag="RNYUAKO-rWql8OHrIsaQ" version="20.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-24T21:40:42.589Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.134 YaBrowser/22.7.0.1842 Yowser/2.5 Safari/537.36" etag="YiCFTvf8fdoBgMb7AJIE" version="20.1.3" type="github">
   <diagram id="Mn5sq6n3bpsTHVqs6o9O" name="Страница 1">
-    <mxGraphModel dx="2076" dy="10454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="9877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -155,7 +155,7 @@
         <mxCell id="W4WenQNfTfJ00D8obaNd-167" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="W4WenQNfTfJ00D8obaNd-164" target="W4WenQNfTfJ00D8obaNd-166">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="W4WenQNfTfJ00D8obaNd-163" value="Переходим в раздел &quot;Результаты планирования&quot;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13.3;fontColor=#333333;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=7.5;fillColor=#3278ca;strokeWidth=0.8;" vertex="1" parent="1">
+        <mxCell id="W4WenQNfTfJ00D8obaNd-163" value="Переходим в раздел &quot;Календарное планирования&quot;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13.3;fontColor=#333333;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=7.5;fillColor=#3278ca;strokeWidth=0.8;" vertex="1" parent="1">
           <mxGeometry x="827" y="-9143" width="123" height="70" as="geometry" />
         </mxCell>
         <mxCell id="W4WenQNfTfJ00D8obaNd-164" value="Формирование страницы&lt;br&gt;&lt;span style=&quot;color: rgba(255, 255, 255, 0.4); font-family: &amp;quot;Roboto Mono&amp;quot;, monospace; font-size: 11px; text-align: start; background-color: rgb(44, 44, 44);&quot;&gt;/*&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; font-size: 11px; line-height: inherit; font-family: &amp;quot;Roboto Mono&amp;quot;, monospace; vertical-align: inherit; outline: none; cursor: inherit; color: rgba(255, 255, 255, 0.4); text-align: start; background-color: rgb(44, 44, 44);&quot;&gt;Внутренний аудит / Планирование / Результаты планирования&lt;/span&gt;&lt;span style=&quot;color: rgba(255, 255, 255, 0.4); font-family: &amp;quot;Roboto Mono&amp;quot;, monospace; font-size: 11px; text-align: start; background-color: rgb(44, 44, 44);&quot;&gt;&amp;nbsp;*/&lt;/span&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13.3;fontColor=#333333;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=7.5;fillColor=#3278ca;strokeWidth=0.8;" vertex="1" parent="1">
